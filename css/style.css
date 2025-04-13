@@ -291,6 +291,7 @@ input::placeholder {
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
     text-transform: uppercase;
+    color: var(--primary-color);
     font-size: 24px;
     border-radius: 6px;
     padding: 30px 50px;
